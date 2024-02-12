@@ -14,9 +14,9 @@ At Safari Fruits, we're on a mission to make coding more fun than a barrel of mo
 
 - **Live Streams:** Join us on our virtual safaris as we tackle coding challenges, brainstorm new project ideas, and maybe even encounter a bug or two along the way. Expect plenty of laughter, occasional facepalms, and maybe even a surprise guest appearance by a tech-savvy giraffe (okay, maybe not, but we can dream).
 
-[toprakwhocodes](https://www.twitch.tv/toprakwhocodes)
+  - [toprakwhocodes](https://www.twitch.tv/toprakwhocodes)
 
-[foxikira](https://www.twitch.tv/foxikira)
+  - [foxikira](https://www.twitch.tv/foxikira)
 
 - **Open Source Projects:** From building apps that help you find the perfect pineapple pizza to creating websites dedicated to celebrating the majesty of sloths, our projects are as eclectic as our team. Whether you're a seasoned developer or a coding newbie, there's a place for you in our jungle.
 
